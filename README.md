@@ -29,7 +29,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/parkinsons-voice-detector.git
+git clone https://github.com/bshasikiran/parkinsons-voice-detector.git
 cd parkinsons-voice-detector
 
 # Install dependencies
@@ -40,3 +40,31 @@ python model_training.py
 
 # Run application
 streamlit run app.py
+
+
+Deploy on Render
+Fork this repository
+Connect to Render
+Create new Web Service
+Deploy with automatic configuration
+📊 Model Performance
+Metric	Score
+Accuracy	95.7%
+Precision	94.8%
+Recall	96.2%
+F1-Score	95.5%
+ROC-AUC	98.3%
+🔬 Technology Stack
+Frontend: Streamlit, Plotly, Lottie Animations
+ML/AI: Scikit-learn, XGBoost, TensorFlow
+Audio: Librosa, SoundDevice, PyDub
+Reports: ReportLab, Matplotlib
+Deployment: Render, Docker
+👨‍💻 Developer
+Shashi Kiran
+
+Instagram
+
+📄 License
+MIT License - Feel free to use for your hackathon!
+
